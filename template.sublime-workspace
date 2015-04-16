@@ -1,0 +1,1523 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"w",
+				"width	Attr"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"resut",
+				"resultsAll"
+			],
+			[
+				"find",
+				"findOne	Meteor: collection.findOne(selector, [options])"
+			],
+			[
+				"fo",
+				"forEach	Meteor: cursor.forEach(callback)"
+			],
+			[
+				"resul",
+				"resultsAll"
+			],
+			[
+				"Hou",
+				"HourHistory"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"res",
+				"result2"
+			],
+			[
+				"Mete",
+				"Meteor.users	Meteor.users"
+			],
+			[
+				"up",
+				"upsert"
+			],
+			[
+				"Volume",
+				"Volume30"
+			],
+			[
+				"to",
+				"totalGold"
+			],
+			[
+				"user",
+				"userID"
+			],
+			[
+				"use",
+				"userID"
+			],
+			[
+				"u",
+				"update	Meteor: collection.update(selector, modifier, [options], [callback])"
+			],
+			[
+				"ma",
+				"maintenance"
+			],
+			[
+				"fi",
+				"findOne	Meteor: collection.findOne(selector, [options])"
+			],
+			[
+				"ad",
+				"adminBalance"
+			],
+			[
+				"G",
+				"GLD_Balance"
+			],
+			[
+				"the",
+				"theUser"
+			],
+			[
+				"fin",
+				"findOne	Meteor: collection.findOne(selector, [options])"
+			],
+			[
+				"conte",
+				"contentx"
+			],
+			[
+				"ht",
+				"htmlFiltered"
+			],
+			[
+				"re",
+				"regex"
+			],
+			[
+				"te",
+				"testUrl"
+			],
+			[
+				"Sys",
+				"Systemfiles"
+			],
+			[
+				"Meter",
+				"Meteor.call	Meteor.call(name, param1, param2, ... [, asyncCallback])"
+			],
+			[
+				"Met",
+				"Meteor.call	Meteor.call(name, param1, param2, ... [, asyncCallback])"
+			],
+			[
+				"t",
+				"threshold"
+			],
+			[
+				"bot",
+				"botData"
+			],
+			[
+				"go",
+				"goTrade"
+			],
+			[
+				"vau",
+				"vaultoroGoldPrice"
+			],
+			[
+				"moment",
+				"moment1"
+			],
+			[
+				"mo",
+				"moment1"
+			],
+			[
+				"vaultor",
+				"vaultoroGoldPrice"
+			],
+			[
+				"GOld",
+				"Goldprice_in_Euro"
+			],
+			[
+				"pro",
+				"proAurumGramPrice"
+			],
+			[
+				"proA",
+				"proAurumKiloPrice"
+			],
+			[
+				"crea",
+				"createdAt"
+			],
+			[
+				"upda",
+				"updateWasSuccessfull"
+			],
+			[
+				"Gold",
+				"Goldprice_in_Dollar"
+			],
+			[
+				"total",
+				"totalBitcoin"
+			],
+			[
+				"feeTa",
+				"feeTakeninBTC"
+			],
+			[
+				"fee",
+				"feeInBitcoin"
+			],
+			[
+				"closin",
+				"closingBitcoin"
+			],
+			[
+				"closi",
+				"closingGold"
+			],
+			[
+				"closing",
+				"ClosingBTC"
+			],
+			[
+				"BTC",
+				"BTC_Balance"
+			],
+			[
+				"co",
+				"combinedFee"
+			],
+			[
+				"M",
+				"Meteor.user	Meteor.user()"
+			],
+			[
+				"sub",
+				"subscriptions"
+			],
+			[
+				"rem",
+				"remove	Meteor: collection.remove(selector, [callback])"
+			],
+			[
+				"Me",
+				"Meteor.call	Meteor.call(name, param1, param2, ... [, asyncCallback])"
+			],
+			[
+				"subs",
+				"subscribe"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"U",
+				"UserID"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"date",
+				"dateUnix"
+			],
+			[
+				"da",
+				"dateUnix"
+			],
+			[
+				"resu",
+				"resultfinal"
+			],
+			[
+				"_",
+				"_map	Underscore.js map"
+			],
+			[
+				"Gold_",
+				"Gold_Amount"
+			],
+			[
+				"userGL",
+				"userGLD_Balance"
+			],
+			[
+				"userB",
+				"userBTC_Balance"
+			],
+			[
+				"GLD",
+				"GLD_FiatPrice"
+			],
+			[
+				"gol",
+				"goldInOrders"
+			],
+			[
+				"Last",
+				"LastBalanceGLD"
+			],
+			[
+				"Las",
+				"LastBalanceGLD"
+			],
+			[
+				"Cl",
+				"CloseingGLD"
+			],
+			[
+				"last",
+				"lastYear"
+			],
+			[
+				"las",
+				"lastMonth"
+			],
+			[
+				"S",
+				"Statements"
+			],
+			[
+				"Buy",
+				"BuyVolume"
+			],
+			[
+				"Gol",
+				"Gold_Price"
+			],
+			[
+				"orderh",
+				"orderhistory"
+			],
+			[
+				"Or",
+				"Ordercounter"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"gold",
+				"goldSum"
+			],
+			[
+				"St",
+				"StorageFee"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"rend",
+				"render"
+			],
+			[
+				"nav",
+				"nav_page_height"
+			],
+			[
+				"wa",
+				"Wait"
+			],
+			[
+				"get",
+				"getBalance"
+			],
+			[
+				"incomi",
+				"incoming_history"
+			],
+			[
+				"start",
+				"startOf"
+			],
+			[
+				"In",
+				"InTxHistory"
+			],
+			[
+				"h",
+				"heyho"
+			],
+			[
+				"amou",
+				"amounts"
+			],
+			[
+				"f",
+				"fetch	Meteor: cursor.fetch()"
+			],
+			[
+				"in",
+				"intxxhistory"
+			],
+			[
+				"pub",
+				"published"
+			],
+			[
+				"g",
+				"gdata"
+			],
+			[
+				"s",
+				"startunix"
+			],
+			[
+				"time",
+				"timehour"
+			],
+			[
+				"lis",
+				"listTransactions"
+			],
+			[
+				"wrap",
+				"wrappedBitcoin"
+			],
+			[
+				"che",
+				"check2"
+			],
+			[
+				"ce",
+				"check2"
+			],
+			[
+				"chec",
+				"check2"
+			],
+			[
+				"out",
+				"outgoing_history"
+			],
+			[
+				"bit",
+				"bitcoin"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"rea",
+				"reason"
+			],
+			[
+				"cron",
+				"crontext"
+			],
+			[
+				"eve",
+				"events	Meteor: Template.myTemplate.events(eventMap)"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"am",
+				"amount"
+			],
+			[
+				"Dep",
+				"Deposit_Addresses"
+			],
+			[
+				"D",
+				"Deposit_Addresses"
+			],
+			[
+				"qrsca",
+				"qrscanned"
+			],
+			[
+				"ev",
+				"events	Meteor: Template.myTemplate.events(eventMap)"
+			],
+			[
+				"gro",
+				"group"
+			],
+			[
+				"move",
+				"movetest"
+			],
+			[
+				"o",
+				"optional"
+			],
+			[
+				"User",
+				"User_Balance"
+			],
+			[
+				"bitc",
+				"bitcoinGetLatestTransactions"
+			],
+			[
+				"webs",
+				"websocketConnect"
+			],
+			[
+				"Meteor",
+				"Meteor.startup	Meteor.startup(fn)"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"b",
+				"blockindex"
+			],
+			[
+				"tr",
+				"transaction"
+			],
+			[
+				"plu",
+				"pluckedUsers"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "template/vendor/bootstrap.min.css",
+			"settings":
+			{
+				"buffer_size": 117305,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template/index.html",
+			"settings":
+			{
+				"buffer_size": 28071,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template/main.js",
+			"settings":
+			{
+				"buffer_size": 23651,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template/vendor/theme.js",
+			"settings":
+			{
+				"buffer_size": 906,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template/css/style.css",
+			"settings":
+			{
+				"buffer_size": 9798,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template/css/theme.css",
+			"settings":
+			{
+				"buffer_size": 18474,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 219.0,
+		"history":
+		[
+			"package",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read());",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os;",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/pscigala/Documents/MeteorProjects/apidoc/template",
+		"/Users/pscigala/Documents/MeteorProjects/apidoc/template/css",
+		"/Users/pscigala/Documents/MeteorProjects/apidoc/template/img",
+		"/Users/pscigala/Documents/MeteorProjects/apidoc/template/vendor"
+	],
+	"file_history":
+	[
+		"/Users/pscigala/Documents/MeteorProjects/apidoc/template/css/theme.css",
+		"/Users/pscigala/Documents/MeteorProjects/vapi/router.js",
+		"/Users/pscigala/Documents/MeteorProjects/vapi/vapi.html",
+		"/Users/pscigala/Documents/MeteorProjects/vapi/common.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vapi/vapi.sh",
+		"/Users/pscigala/Documents/MeteorProjects/vapi/server/test.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vapi/.gitignore",
+		"/Users/pscigala/Documents/MeteorProjects/vapi/vapi.css",
+		"/Users/pscigala/Documents/MeteorProjects/vapi/vapi.js",
+		"/Users/pscigala/Documents/MeteorProjects/Deployment/VaultoroMup/settings.json",
+		"/Users/pscigala/Documents/MeteorProjects/Deployment/LoadBalancer/nginx.conf",
+		"/Users/pscigala/Documents/MeteorProjects/Deployment/LoadBalancer/nginx_original.conf",
+		"/Users/pscigala/Documents/MeteorProjects/Deployment/VaultoroMup/mup.json",
+		"/Users/pscigala/Documents/MeteorProjects/Deployment/LoadBalancer/SSL.crt",
+		"/Users/pscigala/Documents/MeteorProjects/Deployment/VaultoroMup/nginx.conf",
+		"/Users/pscigala/Documents/MeteorProjects/Deployment/VaultoroMup/nginx_original.conf",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/user_actions.html",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/outgoing.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/outgoing.html",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/Crons/GenerateHourHistory.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/trading.html",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/Crons/GetPricesFromExternSources.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/bitcoin.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/Crons/Update30DayVolume.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/Crons/SellingBot.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/Crons/BitcoinFunctions.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/handlebarHelpers.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/Crons/GenerateOutAndInTxHistory.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/Crons/SnapShotAndStatement.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/vadmin.sh",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/user_admin.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/packages.json",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/websocket.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/methods.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/ohlc.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/BitcoinFunctions.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/Volume30Cron.coffee",
+		"/Users/pscigala/Library/Application Support/Sublime Text 3/Packages/Better CoffeeScript/Keymaps/Default (OSX).sublime-keymap",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/packages/meteorhacks_collection-utils.js.map",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/packages/meteorhacks_collection-utils.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/eachline/node_modules/type-of/LICENSE",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/npm/peerlibrary:xml2js/node_modules/xml2js/node_modules/xmlbuilder/node_modules/lodash-node/compat/chaining/wrapperValueOf.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/cordova-plugins",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/packages",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/vadmin.html",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/js/user_admin.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/layout.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/user_admin.html",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/lib/router.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/trading.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/user_actions.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/SellingBot.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/publications.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/lib/collections.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/findandmodify.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/bitpay.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/user_orders.html",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/startup.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/packages/npm-container/.build.npm-container/npm/node_modules/bitpay-node/node_modules/request/package.json",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/packages/npm-container/.build.npm-container/npm/node_modules/bitpay-node/node_modules/request/examples/README.md",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/packages/npm-container/.build.npm-container/npm/node_modules/bitpay-node/node_modules/request/lib/copy.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/packages/npm-container/.build.npm-container/npm/node_modules/bitpay-node/lib/invoice.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/packages/npm-container/.build.npm-container/npm/node_modules/bitpay-node/lib/client.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/packages/npm-container/.build.npm-container/npm/node_modules/bitpay-node/lib/listener.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/layout.html",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/css/yeti.min.css",
+		"/Users/pscigala/Desktop/asd.html",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/runRunRun.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/vadmin.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/getGoldPriceFromExtern.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/userBalanceSnapshot.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/js/livestamp_v1.1.2.min.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/serverKenny.setup.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/js/logs.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/mailsettings.js",
+		"/Users/pscigala/Documents/MeteorProjects/bundledVAdmin/bundle/package.json",
+		"/Users/pscigala/Documents/MeteorProjects/bundledVAdmin/bundle/.ebextensions/vaultoro.conf",
+		"/Users/pscigala/Downloads/var/log/nodejs/nodejs.log",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/server/hourHistoryCron.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/monitor.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/monitor.html",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/css/vadmin.css",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/logs.html",
+		"/Users/pscigala/Library/Application Support/Sublime Text 3/Packages/User/kenny-success.sublime-snippet",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/js/loggings.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/css/dateTimePicker.css",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/user_orders.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/home.html",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/js/tradingHistoty.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/tradingHistory.html",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/outgoing_history.html",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/js/incoming_history.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/client/tradingHistoty.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/npm/iron:router/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/README.md",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/npm/webapp/node_modules/connect/lib/middleware/responseTime.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/node-inspector/front-end/RuntimeModel.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/node-inspector/front-end/TimelinePanelDescriptor.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/node-inspector/front-end/TimelineOverviewPane.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/node-inspector/front-end/TimelineFrameController.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/node-inspector/front-end/TimelinePanel.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/node-inspector/front-end/timelinePanel.css",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/node-inspector/front-end/TimelineManager.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/npm/iron:router/node_modules/body-parser/node_modules/type-is/README.md",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/node_modules/bplist-parser/test/iTunes-small.bplist",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/npm/peerlibrary:xml2js/node_modules/xml2js/node_modules/sax/test/parser-position.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/npm/mongo/node_modules/mongodb/node_modules/bson/test/node/bson_parser_comparision_test.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/spec-cordova/metadata/windows8_parser.spec.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/spec-cordova/metadata/wp8_parser.spec.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/src/cordova/metadata/android_parser.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/spec-cordova/metadata/ios_parser.spec.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/spec-cordova/metadata/firefoxos_parser.spec.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/spec-cordova/metadata/blackberry_parser.spec.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/spec-cordova/metadata/android_parser.spec.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/node_modules/npm/node_modules/request/node_modules/http-signature/lib/parser.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/packages/npm-container/.npm/package/node_modules/faye-websocket/node_modules/websocket-driver/lib/websocket/driver/http_parser.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/packages/npm-container/.build.npm-container/npm/node_modules/faye-websocket/node_modules/websocket-driver/lib/websocket/driver/http_parser.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/npm/cfs:s3/node_modules/aws-sdk/node_modules/xml2js/node_modules/sax/test/parser-position.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/node-inspector/front-end/CookieParser.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/src/cordova/plugin_parser.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/spec-cordova/plugin_parser.spec.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/node_modules/elementtree/node_modules/sax/test/parser-position.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/sqlite3/node_modules/node-pre-gyp/node_modules/request/node_modules/http-signature/lib/parser.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/node_modules/request/node_modules/http-signature/lib/parser.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/npm/http/node_modules/request/node_modules/http-signature/lib/parser.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/npm/cfs:s3/node_modules/aws-sdk/test/xml/parser.spec.coffee",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/npm/cfs:data-man/node_modules/request/node_modules/http-signature/lib/parser.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/npm/node_modules/request/node_modules/http-signature/lib/parser.js",
+		"/Users/pscigala/Documents/MeteorProjects/vadmin/.meteor/local/build/programs/server/node_modules/cordova/node_modules/cordova-lib/node_modules/elementtree/lib/parser.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/pscigala/Documents/MeteorProjects/vadmin",
+			"/Users/pscigala/Documents/MeteorProjects/vadmin/server",
+			"/Users/pscigala/Documents/MeteorProjects/vadmin",
+			"/Users/pscigala/Documents/MeteorProjects/vaultoro",
+			"/Users/pscigala/Documents/MeteorProjects/vadmin",
+			"/Users/pscigala/Documents/MeteorProjects/vaultoro",
+			"/Users/pscigala/Documents/MeteorProjects/testapp",
+			"/Users/pscigala/Documents/testapp"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hotwallet",
+			"ohcl",
+			"Volume30",
+			"threshold",
+			"bitcoinInOrders",
+			"result2",
+			"h3",
+			"id",
+			"UI",
+			"nav_page_height",
+			"Users.update",
+			"Users.find",
+			"gbijaV",
+			"approved",
+			"qrcode",
+			"qr",
+			"loginTok",
+			"Springer",
+			"springer.com",
+			"Springerlink",
+			"dashboard",
+			"StockChart",
+			"subtotal",
+			"subtotal-trade",
+			"market-switch-text",
+			"sparks",
+			"public_buyorders",
+			"public_sellorders",
+			"subscribe",
+			"subscruibe",
+			"wee",
+			"ance",
+			"color-green",
+			"header",
+			"smallbox",
+			"background-image",
+			"Last_Price",
+			"gold_price",
+			"big",
+			"logo",
+			"body",
+			"font-family",
+			"parent",
+			"menu-item-parent",
+			"hide-menu",
+			"goldsold",
+			"goldbought",
+			"ETITIMDEOUT",
+			"kapitalize"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Vaultoro",
+			"vaultoro.com",
+			"Vaultoro"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "template/vendor/bootstrap.min.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 117305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117305,
+								117305
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": -0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "template/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28071,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2884,
+								2884
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Handlebars/Handlebars.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 562.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "template/main.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 23651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 8982.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "template/vendor/theme.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								821,
+								805
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "template/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9798,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5306,
+								5306
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 3488.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "template/css/theme.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18474,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								532,
+								532
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 218.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffee_compile_output":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "template.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"lib/collections.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/MeteorProjects/vaultoro.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

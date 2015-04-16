@@ -5,15 +5,47 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <link href="vendor/bootstrap.min.css" rel="stylesheet" media="screen">
-  <link href="vendor/prettify.css" rel="stylesheet" media="screen">
   <link href="css/style.css" rel="stylesheet" media="screen, print">
+  <link href="css/theme.css" rel="stylesheet" media="screen, print">
   <link href="img/favicon.ico" rel="icon" type="image/x-icon">
   <script src="vendor/polyfill.js"></script>
 </head>
+
 <body>
 
+    <div class="navbar navbar-fixed-top fus-navbar-solid" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" class="scrollto" href="#top"><img src="img/logo-white.png" height="24px"></a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="active"><a class="scrollto" href="#top">Home</a></li>
+             <li><a class="scrollto" href="#features">Features</a></li>
+             <li><a class="scrollto" href="#security">Security</a></li>
+             <li><a href="https://blog.vaultoro.com">Blog</a></li>
+             <li><a href="https://audit.vaultoro.com">Audit</a></li>
+             <li><a href="http://support.vaultoro.com" target="_blank">FAQ</a></li>
+             <li><a class="btn fus-btn-white" href="https://trade.vaultoro.com/sign-up" target="_blank">Register</a></li>
+              <li><a class="btn fus-btn-white" href="https://trade.vaultoro.com/" target="_blank">Sign in</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div><!--/.container -->
+    </div>
+  
+
+
+  
+  
+
 <script id="template-sidenav" type="text/x-handlebars-template">
-<nav id="scrollingNav">
+<nav id="scrollingNav" style="margin-top: 70px;">
   <ul class="sidenav nav nav-list">
   {{#each nav}}
     {{#if title}}
@@ -36,9 +68,11 @@
 
 <script id="template-project" type="text/x-handlebars-template">
   <div class="pull-left">
-    <h1>{{name}}</h1>
-    {{#if description}}<h2>{{{nl2br description}}}</h2>{{/if}}
+ <h1>{{name}}</h1>
+  
   </div>
+    <div class="clearfix"></div>
+    {{#if description}}<h2 class="clearfix">{{{nl2br description}}}</h2>{{/if}}
   {{#if template.withCompare}}
   <div class="pull-right">
     <div class="btn-group">
@@ -98,7 +132,7 @@
 <script id="template-article" type="text/x-handlebars-template">
   <article id="api-{{article.group}}-{{article.name}}-{{article.version}}" {{#if hidden}}class="hide"{{/if}} data-group="{{article.group}}" data-name="{{article.name}}" data-version="{{article.version}}">
     <div class="pull-left">
-      <h1>{{article.groupTitle}}{{#if article.title}} - {{article.title}}{{/if}}</h1>
+      <h1>{{#if article.title}}{{article.title}}{{/if}}</h1>
     </div>
     {{#if template.withCompare}}
     <div class="pull-right">
@@ -653,6 +687,9 @@
   </div>
 </div>
 
+
 <script data-main="main.js" src="vendor/require.min.js"></script>
+<script data-main="theme.js" src="vendor/theme.js"></script>
+
 </body>
 </html>

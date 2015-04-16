@@ -248,7 +248,7 @@ pre.language-json .pun {
  * ------------------------------------------------------------------------------------------ */
 .sidenav {
   width: 228px;
-  margin: 0;
+  margin: 50px 0 0 0;
   padding: 20px;
   position: fixed;
   top: 0;
@@ -284,7 +284,7 @@ pre.language-json .pun {
 }
 
 .sidenav > li.nav-header.active > a {
-  background-color: #0088cc;
+  background-color: #fff;
 }
 
 .sidenav > .active > a {
