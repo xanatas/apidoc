@@ -1,26 +1,20 @@
 /*jshint unused:false, expr:true */
 
 /**
- * Test: apiDoc full parse
+ * Test: apiDoc creation from multiple folder
  */
 
-// node modules
-var apidoc = require('apidoc-core');
-var exec   = require('child_process').exec;
-var fs     = require('fs-extra');
-var path   = require('path');
-var semver = require('semver');
+var fs = require('fs-extra');
+var exec = require('child_process').exec;
+var path = require('path');
 var should = require('should');
 
-var versions = require('apidoc-example').versions;
+describe('apiDoc multiple folder input', function() {
 
-describe('apiDoc full example', function() {
+    var fixturePath = 'test/multi_input_folder/fixtures';
+    var projectBaseBath = 'test/multi_input_folder/testproject';
 
-    // get latest example for the used apidoc-spec
-    var latestExampleVersion = semver.maxSatisfying(versions, '~' + apidoc.getSpecificationVersion()); // ~0.2.0 = >=0.2.0 <0.3.0
-
-    var exampleBasePath = 'node_modules/apidoc-example/' + latestExampleVersion;
-    var fixturePath = exampleBasePath + '/fixtures';
+    var testTargetPath = "./tmp/apidocmulti";
 
     var fixtureFiles = [
         'api_data.js',
@@ -31,7 +25,7 @@ describe('apiDoc full example', function() {
     ];
 
     before(function(done) {
-        fs.removeSync('./tmp/');
+        fs.removeSync(testTargetPath);
 
         done();
     });
@@ -40,15 +34,20 @@ describe('apiDoc full example', function() {
         done();
     });
 
-    // version found
-    it('should find latest example version', function(done) {
-        should(latestExampleVersion).be.ok;
-        done();
-    });
+    it('should create apidoc in /tmp/apidocmulti with multiple input folders', function(done) {
 
-    // create
-    it('should create example in tmp/', function(done) {
-        var cmd = 'node ./bin/apidoc -i ' + exampleBasePath + '/src/ -o tmp/ -t test/template/ --silent';
+        var commonDefinitions = path.join('', 'folder1');
+        var historyDefinition = path.join('', 'folder2');
+        var srcFolder = path.join('', 'src');
+
+        var cmd = 'cd ' + projectBaseBath + ' && ';
+        cmd += 'node ../../../bin/apidoc';
+        cmd += ' -i ' + commonDefinitions;
+        cmd += ' -i ' + historyDefinition;
+        cmd += ' -i ' + srcFolder;
+        cmd += ' -o ../../../tmp/apidocmulti';
+        cmd += ' -t ../../template/';
+
         exec(cmd, function(err, stdout, stderr) {
             if (err)
                 throw err;
@@ -60,23 +59,14 @@ describe('apiDoc full example', function() {
         });
     });
 
-    // check
-    it('should find created files', function(done) {
-        fixtureFiles.forEach(function(name) {
-            fs.existsSync(fixturePath + '/' + name).should.eql(true);
-        });
-        done();
-    });
-
-    // compare
     it('created files should equal to fixtures', function(done) {
         var timeRegExp = /\"time\"\:\s\"(.*)\"/g;
         var versionRegExp = /\"version\"\:\s\"(.*)\"/g;
-        var filenameRegExp = new RegExp('(?!"filename":\\s")(' + exampleBasePath + '/)', 'g');
+        var filenameRegExp = new RegExp('(?!"filename":\\s")(' + projectBaseBath + '/)', 'g');
 
         fixtureFiles.forEach(function(name) {
-            var fixtureContent = fs.readFileSync(fixturePath + '/' + name, 'utf8');
-            var createdContent = fs.readFileSync('./tmp/' + name, 'utf8');
+            var fixtureContent = fs.readFileSync(path.join(fixturePath, name), 'utf8');
+            var createdContent = fs.readFileSync(path.join(testTargetPath, name), 'utf8');
 
             // creation time remove (never equal)
             fixtureContent = fixtureContent.replace(timeRegExp, '');
@@ -93,11 +83,11 @@ describe('apiDoc full example', function() {
             var createdLines = createdContent.split(/\n/);
 
             if (fixtureLines.length !== createdLines.length)
-                throw new Error('File ./tmp/' + name + ' not equals to ' + fixturePath + '/' + name);
+                throw new Error('File ' + path.join(testTargetPath, name) + ' not equals to ' + fixturePath + '/' + name);
 
             for (var lineNumber = 0; lineNumber < fixtureLines.length; lineNumber += 1) {
                 if (fixtureLines[lineNumber] !== createdLines[lineNumber])
-                    throw new Error('File ./tmp/' + name + ' not equals to ' + fixturePath + '/' + name + ' in line ' + (lineNumber + 1) +
+                    throw new Error('File ' + path.join(testTargetPath, name) + ' not equals to ' + fixturePath + '/' + name + ' in line ' + (lineNumber + 1) +
                         '\nfixture: ' + fixtureLines[lineNumber] +
                         '\ncreated: ' + createdLines[lineNumber]
                     );
@@ -105,5 +95,4 @@ describe('apiDoc full example', function() {
         });
         done();
     });
-
 });

@@ -50,7 +50,7 @@ More examples and best practice hints: [EXAMPLES.md](https://github.com/apidoc/a
 
 ## Supported programming languages
 
- * **C#, Go, Dart, Java, JavaScript, PHP** (all DocStyle capable languages):
+ * **C#, Go, Dart, Java, JavaScript, PHP, Scala** (all DocStyle capable languages):
 
    ```javascript
    /**
@@ -113,20 +113,28 @@ More examples and best practice hints: [EXAMPLES.md](https://github.com/apidoc/a
    ```
 
 
-## Grunt Module
+## Build tools
 
-[grunt-apidoc](https://github.com/apidoc/grunt-apidoc) `npm install grunt-apidoc`.
-
-
-## Gulp Module
-
-[gulp-apidoc](https://github.com/ayhankuru/gulp-apidoc) `npm install gulp-apidoc`.
+* [flask-apidoc](https://pypi.python.org/pypi/flask-apidoc/) `pip install flask-apidoc`
+* [grunt-apidoc](https://github.com/apidoc/grunt-apidoc) `npm install grunt-apidoc`.
+* [gulp-apidoc](https://github.com/ayhankuru/gulp-apidoc) `npm install gulp-apidoc`.
 
 
 ## Editor integration
 
 * [Eclipse plugin](https://github.com/DWand/eclipse_pdt_apiDoc_editor_templates)
 * [Sublime Text plugin](https://github.com/DWand/ST3_apiDocAutocompletion)
+
+
+## Converter
+
+* [apidoc-swagger](https://github.com/fsbahman/apidoc-swagger)
+* [gulp-apidoc-swagger](https://github.com/fsbahman/gulp-apidoc-swagger)
+
+
+## FAQ
+
+* [Filter for public / private API](https://github.com/apidoc/grunt-apidoc/issues/27#issuecomment-147664797)
 
 
 ## Help

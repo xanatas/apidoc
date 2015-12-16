@@ -1,5 +1,75 @@
 # apiDoc Changelog
 
+#### 0.14.0
+
+* CLI
+  * Clarify that -c option must be a directory.
+
+* Parser
+  * Add support for `:` in @apiParam names.
+  * Add Ruby doxygen-style support.
+  * Add Groovy support.
+  * Add Exlixir support.
+  * Add Parameter name array syntax.
+  * Add travis-ci tests for node 0.12.
+
+* Template
+  * Add semver for correct sort order. [335](https://github.com/apidoc/apidoc/issues/335)
+  * Add google webfontloader to fix scrollspy position after webfont loading.
+  * Add semver for correct sort order.
+  * Add Spanish translation.
+  * Add Chinese Simplified (zh-cn) tranlsation.
+  * Update to semantic tradition Chinese words.
+  * Update Polish translation.
+  * Ensure params isn't empty before sending.
+  * Set required defaults for sample request.
+  * Bugfix: Locale don't work with pt-br. [329](https://github.com/apidoc/apidoc/issues/329)
+  * Bugfix: Empty Groups for Future Versions showing when old Versions are selected. [349](https://github.com/apidoc/apidoc/issues/349)
+  * Bugfix: Add path to template variable (_col1).
+  * Sample requests with GET parameters need to be added to the query string.
+  * Fix handle bar expression to not apply html encode for data type field.
+  * Typo in header.md.
+
+
+#### 0.13.2
+
+* Parser
+  * Remove p-Tags from type-Field.
+  * Update dependencies.
+  * Update fixtures (type-Fields and line endings).
+
+
+#### 0.13.1
+
+* Template
+  * Update French and Russian translation files.
+
+
+#### 0.13.0
+
+* **Important changes**:
+  * __Remove__ deprecated annotations (http://apidocjs.com/deprecated.html).
+  * __Replace__ markdown parser [markdown-it](https://github.com/markdown-it/markdown-it).
+
+* CLI
+  * Add path to config file (with `-c`).
+  * Add multiple input locations (with `-i`).
+  * Remove markdown config parameters, for custom configurations view [MARKDOWN.md](https://github.com/apidoc/apidoc/blob/master/MARKDOWN.md).
+  * Disable warning if packageJson.apidoc was defined.
+  * Add litcoffee and scala file extension.
+
+* Template
+  * Add `template.forceLanguage` in `apidoc.json` to set a fixed language file without auto-detect the browser language.
+  * Add word wrap for pure text examples.
+  * Add Brazilian, French, Polish and Russian translation files.
+
+* Parser
+  * Remove deprecated annotations (http://apidocjs.com/deprecated.html).
+  * Replace markdown parser with [markdown-it](https://github.com/markdown-it/markdown-it).
+  * Add custom markdown parser support, view [MARKDOWN.md](https://github.com/apidoc/apidoc/blob/master/MARKDOWN.md) for details.
+  * Add support for markdown in the type section. Example: `@apiParam {(CustomType)[http://...link-to-description.html]}`
+
+
 #### 0.12.2
 
 * CLI
