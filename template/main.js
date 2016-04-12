@@ -666,7 +666,7 @@ require([
                 $(window).scrollspy('refresh')
             },
             google: {
-                families: ['Source Code Pro', 'Source Sans Pro:n4,n6,n7']
+                families: ['Open Sans', 'Source Sans Pro:n4,n6,n7']
             }
         });
     }

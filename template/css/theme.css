@@ -70,9 +70,11 @@ body .navbar-nav > li > a {
   margin: 20px 10px;
   border-bottom: 2px solid transparent;
 }
-
 body .navbar-nav > li > a:hover {
-background: none;
+background:none;
+}
+body .navbar-nav > li:hover {
+background-color:rgba(38,55,90,1.00)
 }
 body .navbar-nav > li > a:focus { 
   background: none;
@@ -96,6 +98,7 @@ body .navbar .navbar-header .navbar-brand {
   font-weight: bold;
   line-height: 75%;
 }
+
 
 body .btn {
   color: #333;
